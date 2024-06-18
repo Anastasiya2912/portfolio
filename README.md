@@ -1,5 +1,4 @@
 # *HELLO, WORLD! My name is Anastasiya!*
-![моя фотка](https://drive.google.com/file/d/1IR-Gh6oucH39jTFX12yjPrnhpHpsHLO_/view?usp=sharing)
 
 *Ну а мне пока удобнее по русски XD* 
 
